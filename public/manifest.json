@@ -1,0 +1,19 @@
+{
+  "name": "andystem",
+  "short_name": "andystem",
+  "description": "andystem — tuner gitar, bass, ukulele berbasis web. Bisa offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1e1b4b",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
